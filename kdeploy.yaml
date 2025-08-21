@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: loksai-eta-container
-        image: loksaieta/pl-javawebappimg
+        image: sudheerdubey1988/pl-javawebappimg
         ports:
         - containerPort: 8080
 ---
